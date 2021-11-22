@@ -1,7 +1,7 @@
 .cal-container {
-  width: 346px;
+  width: 100%;
 margin: 5px auto 0; 
-}
+};
 #age-calculator {
     background: none repeat scroll 0 0 #ffcccc;
     border: 1px solid #BEBEBE;
